@@ -3,7 +3,7 @@ global:
 
 image:
   repository: tarampampam/error-pages
-  tag: 2.18.0
+  tag: 2.27.0
 
 env:
   TEMPLATE_NAME: l7-dark
