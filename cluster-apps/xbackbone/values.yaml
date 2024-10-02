@@ -77,7 +77,7 @@ xbackbone:
   initContainers:
     cp:
       name: cp
-      image: busybox:1.35
+      image: busybox:1.37
       imagePullPolicy: IfNotPresent
       command:
         - /bin/sh
