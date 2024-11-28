@@ -3,5 +3,5 @@ apiVersion: v2
 version: 1.0.0
 dependencies:
   - name: gpu-operator
-    version: v22.9.1
+    version: v22.9.2
     repository: https://nvidia.github.io/gpu-operator
