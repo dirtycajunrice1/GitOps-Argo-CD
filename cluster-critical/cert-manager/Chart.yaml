@@ -3,7 +3,7 @@ apiVersion: v2
 version: 1.0.0
 dependencies:
   - name: cert-manager
-    version: v1.9.1
+    version: v1.9.2
     repository: https://charts.jetstack.io
   - name: addons
     version: 1.0.0
