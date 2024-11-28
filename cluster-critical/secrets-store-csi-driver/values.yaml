@@ -4,7 +4,7 @@ secrets-store-csi-driver:
   linux:
     image:
       repository: registry.k8s.io/csi-secrets-store/driver
-      tag: v1.3.0
+      tag: v1.4.6
       pullPolicy: IfNotPresent
 
     registrarImage:
