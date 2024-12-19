@@ -15,7 +15,7 @@ external-dns:
     registry: docker.io
     repository: bitnami/external-dns
     # renovatebot:alturl=https://github.com/bitnami/bitnami-docker-external-dns
-    tag: 0.12.2
+    tag: 0.15.1
 
   sources:
     - crd
