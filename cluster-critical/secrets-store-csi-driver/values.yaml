@@ -14,7 +14,7 @@ secrets-store-csi-driver:
 
     livenessProbeImage:
       repository: registry.k8s.io/sig-storage/livenessprobe
-      tag: v2.8.0
+      tag: v2.15.0
       pullPolicy: IfNotPresent
 
   logVerbosity: 0
