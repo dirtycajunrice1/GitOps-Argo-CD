@@ -3,7 +3,7 @@ apiVersion: v2
 version: 1.0.0
 dependencies:
   - name: authentik
-    version: 2022.9.0
+    version: 2024.12.2
     repository: https://charts.goauthentik.io
   - name: addons
     version: 1.0.0
