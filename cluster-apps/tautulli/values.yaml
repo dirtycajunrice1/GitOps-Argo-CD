@@ -5,7 +5,7 @@ tautulli:
   fullnameOverride: tautulli
   image:
     repository: tautulli/tautulli
-    tag: v2.10.4
+    tag: v2.15.1
   enableServiceLinks: false
   env:
     TZ: UTC
